@@ -333,7 +333,7 @@ footer{
     box-shadow: var(--box-shadow-lg);
 }
 
-*/
+
 /* ADD SELECTOR AND STYLES HERE */
 
 /* For the first link in this section: */
@@ -418,7 +418,7 @@ footer{
     display: block;
     width: 200px;
     height: auto;
-    margin: 0, auto;
+    margin: 0, auto ;
     filter: var(--filter-shadow-sm);
 }
 
